@@ -1,0 +1,1 @@
+# checking-the-survival-rate-in-titanic-using-logistic-regression
